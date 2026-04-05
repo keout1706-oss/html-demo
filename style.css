@@ -1,0 +1,19 @@
+body {
+    background-color: aliceblue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+
+a {
+    color: blueviolet;
+    text-decoration: none;
+}
+
+a:hover {
+    color: brown;
+    text-decoration: underline;
+}
+
+a:visited {
+    color: purple;
+}
